@@ -68,6 +68,7 @@ prisma/dev.db-journal
 # Redis
 dump.rdb
 appendonly.aof
+ 
 
 # Temporary files
 tmp/
